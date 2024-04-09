@@ -1,9 +1,6 @@
 # 항해 16기 16조 미니프로젝트 CineMZ
 ![썸네일 이미지](https://github.com/Seo0min/team16/assets/136035516/e8fc83f6-b0d6-419c-b5f7-4df82f5a7818)
 
-##### 로그인/로그아웃 기능, 영화 검색, 리뷰 작성 수정 및 삭제 기능이 구현된 웹사이트입니다.
-##### 웹사이트 링크 들어가셔서 로그인 하시면 누구나 쉽게 영화에 대한 코멘트를 달고 자유롭게 의견을 나눌 수 있습니다.
-
-https://cinemz99.fly.dev/login
+https://www.youtube.com/watch?v=YWrK-JJlnao
 
 
